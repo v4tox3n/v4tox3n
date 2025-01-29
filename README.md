@@ -25,12 +25,6 @@
 - 💬 **Discord:** v4tox3n#4859
 - 🌐 **Website:** [v4tox3n.github.io](https://v4tox3n.github.io)
 
-### GitHub Stats
-![v4tox3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4tox3n&show_icons=true&theme=radical)
-
-### Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v4tox3n&layout=compact&theme=radical)
-
 ---
 
 ⭐️ From [v4tox3n](https://github.com/v4tox3n)
