@@ -20,7 +20,7 @@
    - Description: Save your passwords and don't lose them anymore.
    - Technologies: Python
 
- - 🚀 **Project 3:** [SafePass](https://countryhunt.pages.dev)
+ - 🚀 **Project 3:** [Country Hunt](https://countryhunt.pages.dev)
    - Description: Guess countries with clues, testing your memory and geography skills.
    - Technologies: HTML, CSS, JS
 
