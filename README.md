@@ -7,9 +7,9 @@
 - 🎯 Focused on creating efficient and scalable solutions.
 
 ### Skills
-- **Languages:** Python, JavaScript, TypeScript, C++
-- **Frameworks:** React, Vue JS
-- **Tools:** Git, Figma
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks:** Vue JS
+- **Tools:** GitHub, Git, Figma
 
 ### Projects
 - 🚀 **Project 1:** [Mac OS Simulator](https://mc-os-simulator.pages.dev)
