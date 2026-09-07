@@ -30,7 +30,7 @@
 
 ### Get in Touch
 - 📸 **Instagram:** [v4tox3n](https://instagram.com/v4tox3n)
-- 🎬 **TikTok:** [v4tox3n](https://tiktok.com/v4tox3n)
+- 🎬 **TikTok:** [v4tox3n](https://tiktok.com/@v4tox3n)
 - 💬 **Discord:** v4tox3n#4859
 - 🌐 **Website:** [v4tox3n.github.io](https://v4tox3n.github.io)
 
