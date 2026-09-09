@@ -24,7 +24,7 @@
    - Description: Guess countries with clues, testing your memory and geography skills.
    - Technologies: HTML, CSS, JS
 
- - 🚀 **Project 4:** [UniHub](unihub-5ss.pages.dev)
+ - 🚀 **Project 4:** [UniHub](https://unihub-5ss.pages.dev)
    - Description: A platform for the academic management of university students. Add your timetable, subjects, outstanding tasks…
    - Technologies: VUE
 
